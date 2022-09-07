@@ -7,9 +7,13 @@
 ## Contact information
 
 **Phone:** +855 55 55 55
+
 **E-mail:** artyomgrigorev115@gmail.com
+
 **Telegram:** @fridrich_zippershpulz
+
 [link1][https://github.com/microsoft/ML-For-Beginners]
+
 [link2][https://github.com/microsoft/ML-For-Beginners]
 
 ***
