@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv stage1
+# https://ArtyomGrigorev115.github.io/rsschool-cv/
